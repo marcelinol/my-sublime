@@ -1,0 +1,22 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketGuard",
+		"BracketHighlighter",
+		"Cucumber",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"Markdown Preview",
+		"Package Control",
+		"RSpec",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Sublimerge Pro",
+		"SyncedSideBar",
+		"Syntax Manager"
+	]
+}

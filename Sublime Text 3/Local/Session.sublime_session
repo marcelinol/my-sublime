@@ -1,0 +1,4184 @@
+{
+	"folder_history":
+	[
+		"/Users/marcelinol/src/rdstation",
+		"/Users/marcelinol/src/rdstation-js-integration",
+		"/Users/marcelinol/src/rdpages",
+		"/Users/marcelinol/src/ED20151",
+		"/Users/marcelinol/src/pipedrive-ruby"
+	],
+	"last_version": 3083,
+	"last_window_id": 31,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1035.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"timeline",
+						"timeline_events"
+					],
+					[
+						"lifec",
+						"lifecycle_history"
+					],
+					[
+						"lifecy",
+						"lifecycle_history"
+					],
+					[
+						"timeli",
+						"timeline_event"
+					],
+					[
+						"marked",
+						"marked_as_lead_event"
+					],
+					[
+						"crea",
+						"created_at"
+					],
+					[
+						"referr",
+						"referrerData"
+					],
+					[
+						"_prepareR",
+						"_prepareReferrerData"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 267.0,
+				"last_filter": "move",
+				"selected_items":
+				[
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"rurai",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"rurails",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"reident",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"REIDENT",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"duplic",
+						"File: Duplicate"
+					],
+					[
+						"dupli",
+						"File: Duplicate"
+					],
+					[
+						"copy",
+						"File: Copy Path"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"instlal p",
+						"Package Control: Install Package"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"removepa",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 530.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/marcelinol/src/rdstation/app/views/mailing/templates/legacy/_social_footer.html.erb",
+				"/Users/marcelinol/src/rdstation/app/models/lead/lifecycle_history.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead_conversion_stat.rb",
+				"/Users/marcelinol/src/rdstation/app/models/searchable_date_period.rb",
+				"/Users/marcelinol/src/rdstation/app/models/concerns/lifecycle_reports.rb",
+				"/Users/marcelinol/src/rdstation/spec/integration/ticket.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/combine_fields_steps.rb",
+				"/Users/marcelinol/src/rdstation/public/lead_imports/1/with_created_at.csv",
+				"/Users/marcelinol/src/rdstation/features/lead_import/import_dates.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/import_date_steps.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/lead_social_info_via_import_steps.rb",
+				"/Users/marcelinol/.zshrc",
+				"/Users/marcelinol/src/rdstation/spec/factories/lead/import.rb",
+				"/Users/marcelinol/src/rdstation/spec/models/lead/import/bulk_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/created_at.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/created_at_steps.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead/hash_helper.rb",
+				"/Users/marcelinol/src/rdstation/app/models/timeline/event.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead/import/import_csv.rb",
+				"/Users/marcelinol/src/rdstation/spec/features/lead_import/lead_import_csv_spec.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/combine_fields.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/lead_social_info_via_import.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/create_custom_fields.feature",
+				"/Users/marcelinol/src/rdstation/app/controllers/api/main_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/views/integrations/_form_js_template.html.erb",
+				"/Users/marcelinol/src/rdstation/features/support/env.rb",
+				"/Users/marcelinol/src/rdstation-js-integration/package.json",
+				"/Users/marcelinol/src/rdstation/config/mongoid.yml",
+				"/Users/marcelinol/src/rdstation/config/mongoid.yml.ci",
+				"/Users/marcelinol/src/rdstation/config/environment.rb",
+				"/Users/marcelinol/src/rdstation/features/support/select2_helper.rb",
+				"/Users/marcelinol/src/rdstation/app/views/lead/import_csv/_step_3.html.erb",
+				"/Users/marcelinol/src/rdstation/features/support/import_helper.rb",
+				"/Users/marcelinol/src/rdstation/spec/controllers/lead/import_csv_controller_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/views/lead/import_csv/_step_2.html.erb",
+				"/Users/marcelinol/src/rdstation/config/locales/import_csv.pt-BR.yml",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/import_csv/field_mapping.js.erb",
+				"/Users/marcelinol/src/rdstation/Gemfile",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/import_csv/column.js.erb",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/landing_pages.js",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/integrations.js.erb",
+				"/Users/marcelinol/src/rdstation/app/controllers/lead/import_csv_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/import_csv.js",
+				"/Users/marcelinol/src/rdstation/spec/models/lead/import/import_csv_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/models/notification_agendor.rb",
+				"/Users/marcelinol/src/rdstation/app/models/landing_page.rb",
+				"/Users/marcelinol/src/rdstation/app/controllers/landing_pages_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/views/landing_pages/landing_page_tab_conversion.html.erb",
+				"/Users/marcelinol/src/rdstation/app/views/landing_pages/wizard_conversion/_conversion_email_notification.html.erb",
+				"/Users/marcelinol/src/pipedrive-ruby/test/test_pipedrive_stage.rb",
+				"/Users/marcelinol/src/pipedrive-ruby/test/test_pipedrive_pipeline.rb",
+				"/Users/marcelinol/src/pipedrive-ruby/test/data/pipelines_body.json",
+				"/Users/marcelinol/src/rdstation/spec/models/notification_pipedrive_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/models/notification_pipedrive.rb",
+				"/Users/marcelinol/src/rdstation/app/controllers/pipedrive_account_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/views/integrations/pipedrive/_edit_account_modal.html.erb",
+				"/Users/marcelinol/src/rdstation/config/locales/integrations.pt-BR.yml",
+				"/Users/marcelinol/src/rdstation/spec/controllers/pipedrive_account_controller_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/views/integrations/pipedrive/_pipelines_stages.html.erb"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/Users/marcelinol/src/rdstation"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"plain.",
+					"plain.html",
+					"nth_day_and_year",
+					"build_expected_array",
+					"wrong",
+					"worng",
+					"lead",
+					"binding.pry",
+					"#",
+					"isCorrect",
+					"is",
+					"te",
+					"lifecycle_history",
+					"lh",
+					"isWrong",
+					"#",
+					"created_at: nil, updated_at: nil, lead_id: 18112590, lm_id: 2514,",
+					"#",
+					"line[0]",
+					":created_at_date",
+					"when created_at is",
+					"'created_at",
+					"\"",
+					"date",
+					"created_at_date",
+					"params",
+					"createD_at",
+					"create_leads_data",
+					"create_basic_leads",
+					"create_leads",
+					"newly_created_leads",
+					"segment_existing_and_new_leads",
+					"create_or_update_leads",
+					"sanitize",
+					"bulk_importer",
+					"do_import",
+					"process_values",
+					"process_data",
+					"conversions_data",
+					"create_conversions",
+					"update_existing_leads_information",
+					"update_conversions_stuff_and_touch",
+					"conversion_attrs_for_update_sql",
+					"last_conversion_date",
+					"def last_conversion_date",
+					"last_conversion_date",
+					"timecop",
+					"delorean",
+					"timestamp",
+					"new_leads_batch",
+					"create_leads_data",
+					"create_basic_leads",
+					"create_or_update_leads",
+					"lead_import_complex",
+					"conversion_date",
+					"perfor",
+					"proc",
+					"0.3.0",
+					"LeadSource",
+					"referrerData",
+					"ReferrerData",
+					"referrerData",
+					"_prepareFormData",
+					"_getAccountSettings",
+					"_prepareFormData",
+					"_getAccountSettings",
+					"_insertClientId",
+					"formData",
+					"highlightRow",
+					"I click on Save and Proceed",
+					"red",
+					"I click on Save and Proceed",
+					"step_3.message_html",
+					"message_html",
+					"pending",
+					"enable",
+					"\"Ignorar\"",
+					"'Nome'",
+					"step_2_message_html",
+					"highligh",
+					"capybara-select2",
+					"rd station",
+					"isIgnored",
+					"selectedFields",
+					"rd-js-integration.min.js",
+					"d335luupugsy2",
+					"<script type=\"text/javascript\" src=\"https://d335luupugsy2.cloudfront.net/js/integration/0.2.1/rd-js-integration.min.js\"></script>",
+					"hasDuplicatedFields",
+					"findDuplicated",
+					"selectedFields",
+					"isValid",
+					"ignoreColumnElement",
+					"ignored",
+					"ignore",
+					"tog",
+					"toggle",
+					"currentColumn",
+					"setcurrent",
+					"thank",
+					"1",
+					"token",
+					"stages_hash"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 118.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"leadconversionstat",
+						"app/models/lead_conversion_stat.rb"
+					],
+					[
+						"lifecycle",
+						"app/models/concerns/lifecycle_reports.rb"
+					],
+					[
+						"lifecyhist",
+						"app/models/lead/lifecycle_history.rb"
+					],
+					[
+						"conversionimport",
+						"app/models/lead/import/bulk/conversion_importer.rb"
+					],
+					[
+						"importlead",
+						"spec/integration/import_leads_spec.rb"
+					],
+					[
+						"withcreated",
+						"public/lead_imports/1/with_created_at.csv"
+					],
+					[
+						"importdate",
+						"features/lead_import/import_dates.feature"
+					],
+					[
+						"importprocesso",
+						"app/models/lead/import/processor.rb"
+					],
+					[
+						"factleadimport",
+						"spec/factories/lead/import.rb"
+					],
+					[
+						"hashhel",
+						"app/models/lead/hash_helper.rb"
+					],
+					[
+						"lead",
+						"app/models/lead.rb"
+					],
+					[
+						"bulkspec",
+						"spec/models/lead/import/bulk_spec.rb"
+					],
+					[
+						"timelineevent",
+						"app/models/timeline/event.rb"
+					],
+					[
+						"leadhashhelper",
+						"app/models/lead/hash_helper.rb"
+					],
+					[
+						"bulknewleads",
+						"app/models/lead/import/bulk/new_leads_importer.rb"
+					],
+					[
+						"bulkleadimport",
+						"app/models/lead/import/bulk/lead_importer.rb"
+					],
+					[
+						"leadimportbulk",
+						"app/models/lead/import/bulk.rb"
+					],
+					[
+						".feature",
+						"features/lead_import/created_at.feature"
+					],
+					[
+						"leadimportprocesso",
+						"app/models/lead/import/processor.rb"
+					],
+					[
+						"modelsleadimport",
+						"app/models/lead/import.rb"
+					],
+					[
+						"importleads",
+						"spec/integration/import_leads_spec.rb"
+					],
+					[
+						"leadimportcsv",
+						"app/models/lead/import/import_csv.rb"
+					],
+					[
+						"apimaincontr",
+						"app/controllers/api/main_controller.rb"
+					],
+					[
+						"env.rb",
+						"features/support/env.rb"
+					],
+					[
+						"gruntf",
+						"gruntfile.js"
+					],
+					[
+						"package",
+						"package.json"
+					],
+					[
+						"env.r",
+						"features/support/env.rb"
+					],
+					[
+						"mongo",
+						"config/mongoid.yml.ci"
+					],
+					[
+						"envirom",
+						"config/environments/development.rb"
+					],
+					[
+						"envir",
+						"config/environment.rb"
+					],
+					[
+						"fieldmapjs",
+						"app/assets/javascripts/import_csv/field_mapping.js.erb"
+					],
+					[
+						"lead_import/lead_import_csv_spec.rb",
+						"spec/features/lead_import/lead_import_csv_spec.rb"
+					],
+					[
+						"step3",
+						"app/views/lead/import_csv/_step_3.html.erb"
+					],
+					[
+						"lead_import_csv_spec.rb",
+						"spec/features/lead_import/lead_import_csv_spec.rb"
+					],
+					[
+						"importyml",
+						"config/locales/import_csv.pt-BR.yml"
+					],
+					[
+						"step2",
+						"app/views/lead/import_csv/_step_2.html.erb"
+					],
+					[
+						"env",
+						"features/support/env.rb"
+					],
+					[
+						"lead/import_csv_controller_spec.rb",
+						"spec/controllers/lead/import_csv_controller_spec.rb"
+					],
+					[
+						"fieldmapp.js",
+						"app/assets/javascripts/import_csv/field_mapping.js.erb"
+					],
+					[
+						"gemfile",
+						"Gemfile"
+					],
+					[
+						"fieldmappingjs",
+						"app/assets/javascripts/import_csv/field_mapping.js.erb"
+					],
+					[
+						"importcsvyml",
+						"config/locales/import_csv.pt-BR.yml"
+					],
+					[
+						"rdlps.js",
+						"app/assets/javascripts/landing_pages.js"
+					],
+					[
+						"integrationjs",
+						"app/assets/javascripts/integrations.js.erb"
+					],
+					[
+						"importcsvcontrollersp",
+						"spec/controllers/lead/import_csv_controller_spec.rb"
+					],
+					[
+						"importjs",
+						"app/assets/javascripts/import_csv.js"
+					],
+					[
+						"conversion_email_notification",
+						"app/views/landing_pages/wizard_conversion/_conversion_email_notification.html.erb"
+					],
+					[
+						"viewlandingpage",
+						"app/views/landing_pages/landing_page_tab_conversion.html.erb"
+					],
+					[
+						"landingpagecontrol",
+						"app/controllers/landing_pages_controller.rb"
+					],
+					[
+						"landingpage",
+						"app/models/landing_page.rb"
+					],
+					[
+						"notifagendor",
+						"app/models/notification_agendor.rb"
+					],
+					[
+						"spec/features/lead_import/lead_import_csv_spec",
+						"spec/features/lead_import/lead_import_csv_spec.rb"
+					],
+					[
+						"gemi",
+						"Gemfile"
+					],
+					[
+						"spec/cassettes/notificationpipedrive/_stages_options/",
+						"spec/cassettes/NotificationPipedrive/_stages_options/creates_hash_with_pipelines_as_keys_and_arrays_of_stages_as_values.yml"
+					],
+					[
+						"integrationsmodal",
+						"app/views/integrations/pipedrive/_edit_account_modal.html.erb"
+					],
+					[
+						"notificationpipe",
+						"app/models/notification_pipedrive.rb"
+					],
+					[
+						"integrationsyml",
+						"config/locales/integrations.pt-BR.yml"
+					],
+					[
+						"pipeaccoutncontrolle",
+						"app/controllers/pipedrive_account_controller.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 313.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1916.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"crea",
+						"created_at"
+					],
+					[
+						"referr",
+						"referrerData"
+					],
+					[
+						"_prepareR",
+						"_prepareReferrerData"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "  def fixture(name)\n    File.open(File.join(Rails.root, 'spec', 'fixtures', 'files','lead_import', name))\n  end\n\n  \n\nimport = Lead::Import.new(file: fixture('with_created_at.csv'), create_conversion: false)\n",
+					"settings":
+					{
+						"buffer_size": 207,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 67.0,
+				"last_filter": "rurails",
+				"selected_items":
+				[
+					[
+						"rurails",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"reident",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"REIDENT",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"duplic",
+						"File: Duplicate"
+					],
+					[
+						"dupli",
+						"File: Duplicate"
+					],
+					[
+						"copy",
+						"File: Copy Path"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"instlal p",
+						"Package Control: Install Package"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"removepa",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/marcelinol/.zshrc",
+				"/Users/marcelinol/src/rdstation/spec/factories/lead/import.rb",
+				"/Users/marcelinol/src/rdstation/spec/models/lead/import/bulk_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/created_at.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/created_at_steps.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead/hash_helper.rb",
+				"/Users/marcelinol/src/rdstation/app/models/timeline/event.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead/import/import_csv.rb",
+				"/Users/marcelinol/src/rdstation/spec/features/lead_import/lead_import_csv_spec.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/combine_fields.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/lead_social_info_via_import.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/create_custom_fields.feature",
+				"/Users/marcelinol/src/rdstation/app/controllers/api/main_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/views/integrations/_form_js_template.html.erb",
+				"/Users/marcelinol/src/rdstation/features/support/env.rb",
+				"/Users/marcelinol/src/rdstation-js-integration/package.json",
+				"/Users/marcelinol/src/rdstation/config/mongoid.yml",
+				"/Users/marcelinol/src/rdstation/config/mongoid.yml.ci",
+				"/Users/marcelinol/src/rdstation/config/environment.rb",
+				"/Users/marcelinol/src/rdstation/features/support/select2_helper.rb",
+				"/Users/marcelinol/src/rdstation/app/views/lead/import_csv/_step_3.html.erb",
+				"/Users/marcelinol/src/rdstation/features/support/import_helper.rb",
+				"/Users/marcelinol/src/rdstation/spec/controllers/lead/import_csv_controller_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/views/lead/import_csv/_step_2.html.erb",
+				"/Users/marcelinol/src/rdstation/config/locales/import_csv.pt-BR.yml",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/import_csv/field_mapping.js.erb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/lead_social_info_via_import_steps.rb",
+				"/Users/marcelinol/src/rdstation/Gemfile",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/import_csv/column.js.erb",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/landing_pages.js",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/integrations.js.erb",
+				"/Users/marcelinol/src/rdstation/app/controllers/lead/import_csv_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/import_csv.js",
+				"/Users/marcelinol/src/rdstation/spec/models/lead/import/import_csv_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/models/notification_agendor.rb",
+				"/Users/marcelinol/src/rdstation/app/models/landing_page.rb",
+				"/Users/marcelinol/src/rdstation/app/controllers/landing_pages_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/views/landing_pages/landing_page_tab_conversion.html.erb",
+				"/Users/marcelinol/src/rdstation/app/views/landing_pages/wizard_conversion/_conversion_email_notification.html.erb",
+				"/Users/marcelinol/src/pipedrive-ruby/test/test_pipedrive_stage.rb",
+				"/Users/marcelinol/src/pipedrive-ruby/test/test_pipedrive_pipeline.rb",
+				"/Users/marcelinol/src/pipedrive-ruby/test/data/pipelines_body.json",
+				"/Users/marcelinol/src/rdstation/spec/models/notification_pipedrive_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/models/notification_pipedrive.rb",
+				"/Users/marcelinol/src/rdstation/app/controllers/pipedrive_account_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/views/integrations/pipedrive/_edit_account_modal.html.erb",
+				"/Users/marcelinol/src/rdstation/config/locales/integrations.pt-BR.yml",
+				"/Users/marcelinol/src/rdstation/spec/controllers/pipedrive_account_controller_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/views/integrations/pipedrive/_pipelines_stages.html.erb"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/Users/marcelinol/src/rdstation"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"created_at_date",
+					"params",
+					"createD_at",
+					"create_leads_data",
+					"create_basic_leads",
+					"create_leads",
+					"newly_created_leads",
+					"segment_existing_and_new_leads",
+					"create_or_update_leads",
+					"sanitize",
+					"bulk_importer",
+					"do_import",
+					"process_values",
+					"process_data",
+					"conversions_data",
+					"create_conversions",
+					"update_existing_leads_information",
+					"update_conversions_stuff_and_touch",
+					"conversion_attrs_for_update_sql",
+					"last_conversion_date",
+					"def last_conversion_date",
+					"last_conversion_date",
+					"timecop",
+					"delorean",
+					"timestamp",
+					"new_leads_batch",
+					"create_leads_data",
+					"create_basic_leads",
+					"create_or_update_leads",
+					"lead_import_complex",
+					"conversion_date",
+					"perfor",
+					"proc",
+					"0.3.0",
+					"LeadSource",
+					"referrerData",
+					"ReferrerData",
+					"referrerData",
+					"_prepareFormData",
+					"_getAccountSettings",
+					"_prepareFormData",
+					"_getAccountSettings",
+					"_insertClientId",
+					"formData",
+					"highlightRow",
+					"I click on Save and Proceed",
+					"red",
+					"I click on Save and Proceed",
+					"step_3.message_html",
+					"message_html",
+					"pending",
+					"enable",
+					"\"Ignorar\"",
+					"'Nome'",
+					"step_2_message_html",
+					"highligh",
+					"capybara-select2",
+					"rd station",
+					"isIgnored",
+					"selectedFields",
+					"rd-js-integration.min.js",
+					"d335luupugsy2",
+					"<script type=\"text/javascript\" src=\"https://d335luupugsy2.cloudfront.net/js/integration/0.2.1/rd-js-integration.min.js\"></script>",
+					"hasDuplicatedFields",
+					"findDuplicated",
+					"selectedFields",
+					"isValid",
+					"ignoreColumnElement",
+					"ignored",
+					"ignore",
+					"tog",
+					"toggle",
+					"currentColumn",
+					"setcurrent",
+					"thank",
+					"1",
+					"token",
+					"stages_hash"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 207,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										112,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+									"syntax_mgr_loaded": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 118.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 0 1916 1057 0 0 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"importprocesso",
+						"app/models/lead/import/processor.rb"
+					],
+					[
+						"factleadimport",
+						"spec/factories/lead/import.rb"
+					],
+					[
+						"hashhel",
+						"app/models/lead/hash_helper.rb"
+					],
+					[
+						"conversionimport",
+						"app/models/lead/import/bulk/conversion_importer.rb"
+					],
+					[
+						"lead",
+						"app/models/lead.rb"
+					],
+					[
+						"bulkspec",
+						"spec/models/lead/import/bulk_spec.rb"
+					],
+					[
+						"timelineevent",
+						"app/models/timeline/event.rb"
+					],
+					[
+						"leadhashhelper",
+						"app/models/lead/hash_helper.rb"
+					],
+					[
+						"bulknewleads",
+						"app/models/lead/import/bulk/new_leads_importer.rb"
+					],
+					[
+						"bulkleadimport",
+						"app/models/lead/import/bulk/lead_importer.rb"
+					],
+					[
+						"leadimportbulk",
+						"app/models/lead/import/bulk.rb"
+					],
+					[
+						".feature",
+						"features/lead_import/created_at.feature"
+					],
+					[
+						"leadimportprocesso",
+						"app/models/lead/import/processor.rb"
+					],
+					[
+						"modelsleadimport",
+						"app/models/lead/import.rb"
+					],
+					[
+						"importleads",
+						"spec/integration/import_leads_spec.rb"
+					],
+					[
+						"leadimportcsv",
+						"app/models/lead/import/import_csv.rb"
+					],
+					[
+						"apimaincontr",
+						"app/controllers/api/main_controller.rb"
+					],
+					[
+						"env.rb",
+						"features/support/env.rb"
+					],
+					[
+						"gruntf",
+						"gruntfile.js"
+					],
+					[
+						"package",
+						"package.json"
+					],
+					[
+						"env.r",
+						"features/support/env.rb"
+					],
+					[
+						"mongo",
+						"config/mongoid.yml.ci"
+					],
+					[
+						"envirom",
+						"config/environments/development.rb"
+					],
+					[
+						"envir",
+						"config/environment.rb"
+					],
+					[
+						"fieldmapjs",
+						"app/assets/javascripts/import_csv/field_mapping.js.erb"
+					],
+					[
+						"lead_import/lead_import_csv_spec.rb",
+						"spec/features/lead_import/lead_import_csv_spec.rb"
+					],
+					[
+						"step3",
+						"app/views/lead/import_csv/_step_3.html.erb"
+					],
+					[
+						"lead_import_csv_spec.rb",
+						"spec/features/lead_import/lead_import_csv_spec.rb"
+					],
+					[
+						"importyml",
+						"config/locales/import_csv.pt-BR.yml"
+					],
+					[
+						"step2",
+						"app/views/lead/import_csv/_step_2.html.erb"
+					],
+					[
+						"env",
+						"features/support/env.rb"
+					],
+					[
+						"lead/import_csv_controller_spec.rb",
+						"spec/controllers/lead/import_csv_controller_spec.rb"
+					],
+					[
+						"fieldmapp.js",
+						"app/assets/javascripts/import_csv/field_mapping.js.erb"
+					],
+					[
+						"gemfile",
+						"Gemfile"
+					],
+					[
+						"fieldmappingjs",
+						"app/assets/javascripts/import_csv/field_mapping.js.erb"
+					],
+					[
+						"importcsvyml",
+						"config/locales/import_csv.pt-BR.yml"
+					],
+					[
+						"rdlps.js",
+						"app/assets/javascripts/landing_pages.js"
+					],
+					[
+						"integrationjs",
+						"app/assets/javascripts/integrations.js.erb"
+					],
+					[
+						"importcsvcontrollersp",
+						"spec/controllers/lead/import_csv_controller_spec.rb"
+					],
+					[
+						"importjs",
+						"app/assets/javascripts/import_csv.js"
+					],
+					[
+						"conversion_email_notification",
+						"app/views/landing_pages/wizard_conversion/_conversion_email_notification.html.erb"
+					],
+					[
+						"viewlandingpage",
+						"app/views/landing_pages/landing_page_tab_conversion.html.erb"
+					],
+					[
+						"landingpagecontrol",
+						"app/controllers/landing_pages_controller.rb"
+					],
+					[
+						"landingpage",
+						"app/models/landing_page.rb"
+					],
+					[
+						"notifagendor",
+						"app/models/notification_agendor.rb"
+					],
+					[
+						"spec/features/lead_import/lead_import_csv_spec",
+						"spec/features/lead_import/lead_import_csv_spec.rb"
+					],
+					[
+						"gemi",
+						"Gemfile"
+					],
+					[
+						"spec/cassettes/notificationpipedrive/_stages_options/",
+						"spec/cassettes/NotificationPipedrive/_stages_options/creates_hash_with_pipelines_as_keys_and_arrays_of_stages_as_values.yml"
+					],
+					[
+						"integrationsmodal",
+						"app/views/integrations/pipedrive/_edit_account_modal.html.erb"
+					],
+					[
+						"notificationpipe",
+						"app/models/notification_pipedrive.rb"
+					],
+					[
+						"integrationsyml",
+						"config/locales/integrations.pt-BR.yml"
+					],
+					[
+						"pipeaccoutncontrolle",
+						"app/controllers/pipedrive_account_controller.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 313.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 22,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"timeline",
+						"timeline_events"
+					],
+					[
+						"lifec",
+						"lifecycle_history"
+					],
+					[
+						"lifecy",
+						"lifecycle_history"
+					],
+					[
+						"timeli",
+						"timeline_event"
+					],
+					[
+						"marked",
+						"marked_as_lead_event"
+					],
+					[
+						"crea",
+						"created_at"
+					],
+					[
+						"referr",
+						"referrerData"
+					],
+					[
+						"_prepareR",
+						"_prepareReferrerData"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "<Timeline::Event _id: 54f064dafce8d1a2a56d8f81,  company_id: nil, source_type: \"conversion\", source_id: 41062881, timestamp: 2015-02-27 12:36:42 UTC, origin: \"Desconhecido\", text: \"web-app-login\", source_url: nil, details: [{\"key\"=>\"cortesia\", \"value\"=>\"Realizada\"}, {\"key\"=>\"identificador\", \"value\"=>\"web-app-login\"}, {\"key\"=>\"email_lead\", \"value\"=>\"coordenador03@dentalprev.net\"}]>, \n<Timeline::Event _id: 54f843cdfce8d1a2a524fa13,  company_id: 3615909, source_type: \"conversion\", source_id: 42232990, timestamp: 2015-03-05 11:53:49 UTC, origin: \"Desconhecido\", text: \"web-app-login\", source_url: nil, details: [{\"key\"=>\"nome\", \"value\"=>\"Paulo Camean - Coordenador Blumenau\"}, {\"key\"=>\"plano\", \"value\"=>\"Agendor\"}, {\"key\"=>\"dt_expiracao_conta\", \"value\"=>\"2015-08-14 14:02:40\"}, {\"key\"=>\"persona\", \"value\"=>nil}, {\"key\"=>\"ramo_atividade\", \"value\"=>nil}, {\"key\"=>\"necessidade\", \"value\"=>nil}, {\"key\"=>\"empresa\", \"value\"=>\"dentalprev\"}, {\"key\"=>\"cortesia\", \"value\"=>\"Realizada\"}, {\"key\"=>\"identificador\", \"value\"=>\"web-app-login\"}, {\"key\"=>\"utm_campaign\", \"value\"=>nil}, {\"key\"=>\"utm_source\", \"value\"=>nil}, {\"key\"=>\"utm_medium\", \"value\"=>nil}, {\"key\"=>\"utm_content\", \"value\"=>nil}, {\"key\"=>\"utm_term\", \"value\"=>nil}, {\"key\"=>\"email_lead\", \"value\"=>\"coordenador03@dentalprev.net\"}]>, \n<Timeline::Event _id: 54f843cefce8d1a2a524fa2e,  company_id: 3615909, source_type: \"conversion\", source_id: 42232993, timestamp: 2015-03-05 11:53:50 UTC, origin: \"Desconhecido\", text: \"web-app-login\", source_url: nil, details: [{\"key\"=>\"nome\", \"value\"=>\"Paulo Camean - Coordenador Blumenau\"}, {\"key\"=>\"plano\", \"value\"=>\"Agendor\"}, {\"key\"=>\"dt_expiracao_conta\", \"value\"=>\"2015-08-14 14:02:40\"}, {\"key\"=>\"persona\", \"value\"=>nil}, {\"key\"=>\"ramo_atividade\", \"value\"=>nil}, {\"key\"=>\"necessidade\", \"value\"=>nil}, {\"key\"=>\"empresa\", \"value\"=>\"dentalprev\"}, {\"key\"=>\"cortesia\", \"value\"=>\"Realizada\"}, {\"key\"=>\"identificador\", \"value\"=>\"web-app-login\"}, {\"key\"=>\"utm_campaign\", \"value\"=>nil}, {\"key\"=>\"utm_source\", \"value\"=>nil}, {\"key\"=>\"utm_medium\", \"value\"=>nil}, {\"key\"=>\"utm_content\", \"value\"=>nil}, {\"key\"=>\"utm_term\", \"value\"=>nil}, {\"key\"=>\"email_lead\", \"value\"=>\"coordenador03@dentalprev.net\"}]>, \n<Timeline::Event _id: 550865a3a94da94d5d397cc1,  company_id: 3615909, source_type: \"lifecycle_history.customer.marked_customer\", source_id: 14411330, timestamp: 2014-06-03 03:00:00 UTC, origin: nil, text: \"\", source_url: \"\", details: nil>, \n<Timeline::Event _id: 550865a3a94da94d5d397cc9,  company_id: 3615909, source_type: \"lifecycle_history.customer.marked_sale\", source_id: 14411331, timestamp: 2014-06-03 03:00:00 UTC, origin: nil, text: \"Fechou uma venda de R$ 80,00.\", source_url: \"\", details: nil>, \n<Timeline::Event _id: 55392efabad595e14d73cfc8,  company_id: 3615909, source_type: \"lifecycle_history.customer.marked_sale\", source_id: 14411331, timestamp: 2014-06-03 03:00:00 UTC, origin: nil, text: \"Fechou uma venda de R$ 80,00\", source_url: \"\", details: nil>, \n<Timeline::Event _id: 54f064dafce8d1a2a56d8f7f,  company_id: nil, source_type: \"lifecycle_history.lifecycle.marked_as_lead\", source_id: 13721065, timestamp: 2015-02-27 12:36:42 UTC, origin: nil, text: \"\", source_url: \"\", details: nil>, \n<Timeline::Event _id: 55392ef9bad595e14d73cfc7,  company_id: 3615909, source_type: \"lifecycle_history.lifecycle.marked_as_lead\", source_id: 22497474, timestamp: 2015-04-23 17:42:17 UTC, origin: nil, text: \"\", source_url: \"\", details: nil>, \n<Timeline::Event _id: 55099b42a94da94d5d97f278,  company_id: 3615909, source_type: \"mail.delivered\", source_id: 233592737, timestamp: 2015-03-18 15:35:26 UTC, origin: nil, text: \"Apresentação 21\", source_url: \"/campanhas/80388\", details: nil>, \n<Timeline::Event _id: 5540fc596e9285650cef01c8,  company_id: 3615909, source_type: \"mail.delivered\", source_id: 303140954, timestamp: 2015-04-29 15:36:14 UTC, origin: nil, text: \"Teaser Novidade Importação de Contatos\", source_url: \"/campanhas/96739\", details: nil>, \n<Timeline::Event _id: 5548f826863ac0208bd92f6c,  company_id: 3615909, source_type: \"mail.delivered\", source_id: 312166420, timestamp: 2015-05-05 17:01:54 UTC, origin: nil, text: \"Pesquisa de Client de Email\", source_url: \"/campanhas/96439\", details: nil>]\n\n\n\n\n<Lead::LifecycleHistory id: 22497474, lead_id: 18112590, source_type: \"lifecycle.marked_as_lead\", created_at: \"2014-06-03 03:00:00\", updated_at: \"2015-04-23 17:42:17\", nth_day_and_year: \"154 2014 BRT\", nth_week_and_year: \"22 2014 BRT\", nth_month_and_year: \"06 2014 BRT\", leads_manager_id: 2514, value: nil, type: nil, lost_reason: nil, fit_score: \"d\", interest_score: 0, event_date: \"2014-06-03 03:00:00\">, \n<Lead::LifecycleHistory::MarkedSaleHistory id: 14411331, lead_id: 18112590, source_type: \"customer.marked_sale\", created_at: \"2014-06-03 06:00:00\", updated_at: \"2015-03-17 17:34:27\", nth_day_and_year: \"076 2015 BRT\", nth_week_and_year: \"11 2015 BRT\", nth_month_and_year: \"03 2015 BRT\", leads_manager_id: 2514, value: <BigDecimal:7fea9d623e98,'0.8E2',9(18)>, type: \"Lead::LifecycleHistory::MarkedSaleHistory\", lost_reason: nil, fit_score: nil, interest_score: nil, event_date: nil>, \n<Lead::LifecycleHistory id: 14411330, lead_id: 18112590, source_type: \"customer.marked_customer\", created_at: \"2014-06-03 06:00:00\", updated_at: \"2015-03-17 17:34:27\", nth_day_and_year: \"076 2015 BRT\", nth_week_and_year: \"11 2015 BRT\", nth_month_and_year: \"03 2015 BRT\", leads_manager_id: 2514, value: nil, type: nil, lost_reason: nil, fit_score: nil, interest_score: nil, event_date: nil>, \n<Lead::LifecycleHistory id: 13721065, lead_id: 18112590, source_type: \"lifecycle.marked_as_lead\", created_at: \"2015-02-27 12:36:42\", updated_at: \"2015-02-27 12:36:42\", nth_day_and_year: \"058 2015 BRT\", nth_week_and_year: \"08 2015 BRT\", nth_month_and_year: \"02 2015 BRT\", leads_manager_id: 2514, value: nil, type: nil, lost_reason: nil, fit_score: nil, interest_score: nil, event_date: nil>]\n\n\n\n\n\n[\n<Timeline::Event _id: 54f4568ffce8d1a2a5f955a9, created_at: nil, updated_at: nil, lead_id: 18329685, lm_id: 2514, company_id: nil, source_type: \"conversion\", source_id: 41337464, timestamp: 2015-03-02 12:24:47 UTC, origin: \"Desconhecido\", text: \"web-app-login\", source_url: nil, details: [{\"key\"=>\"cortesia\", \"value\"=>\"Realizada\"}, {\"key\"=>\"identificador\", \"value\"=>\"web-app-login\"}, {\"key\"=>\"email_lead\", \"value\"=>\"rogerio@sobretensao.com.br\"}]>, \n<Timeline::Event _id: 5508658ba94da94d5d39747d, created_at: nil, updated_at: nil, lead_id: 18329685, lm_id: 2514, company_id: nil, source_type: \"lifecycle_history.customer.marked_customer\", source_id: 14410816, timestamp: 2015-12-02 03:00:00 UTC, origin: nil, text: \"\", source_url: \"\", details: nil>, \n<Timeline::Event _id: 5508658ba94da94d5d39747f, created_at: nil, updated_at: nil, lead_id: 18329685, lm_id: 2514, company_id: nil, source_type: \"lifecycle_history.customer.marked_sale\", source_id: 14410817, timestamp: 2015-12-02 03:00:00 UTC, origin: nil, text: \"Fechou uma venda de R$ 80,00.\", source_url: \"\", details: nil>, \n<Timeline::Event _id: 54f4568ffce8d1a2a5f95570, created_at: 2015-03-02 12:24:46 UTC, updated_at: 2015-04-23 17:42:41 UTC, lead_id: 18329685, lm_id: 2514, company_id: nil, source_type: \"lifecycle_history.lifecycle.marked_as_lead\", source_id: 13759494, timestamp: 2015-03-02 12:24:46 UTC, origin: nil, text: \"\", source_url: \"\", details: nil>, \n<Timeline::Event _id: 55099b66a94da94d5d9880d8, created_at: nil, updated_at: nil, lead_id: 18329685, lm_id: 2514, company_id: nil, source_type: \"mail.bounce\", source_id: 233593483, timestamp: 2015-03-18 15:36:06 UTC, origin: nil, text: \"Apresentação 21\", source_url: \"/campanhas/80388\", details: nil>]",
+					"settings":
+					{
+						"buffer_size": 7607,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/marcelinol/Desktop/ticket.rb",
+					"settings":
+					{
+						"buffer_size": 3668,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 267.0,
+				"last_filter": "move",
+				"selected_items":
+				[
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"rurai",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"rurails",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"reident",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"REIDENT",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"duplic",
+						"File: Duplicate"
+					],
+					[
+						"dupli",
+						"File: Duplicate"
+					],
+					[
+						"copy",
+						"File: Copy Path"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"instlal p",
+						"Package Control: Install Package"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"removepa",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 530.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/marcelinol/src/rdstation/spec/integration/ticket.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/combine_fields_steps.rb",
+				"/Users/marcelinol/src/rdstation/public/lead_imports/1/with_created_at.csv",
+				"/Users/marcelinol/src/rdstation/features/lead_import/import_dates.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/import_date_steps.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/lead_social_info_via_import_steps.rb",
+				"/Users/marcelinol/.zshrc",
+				"/Users/marcelinol/src/rdstation/spec/factories/lead/import.rb",
+				"/Users/marcelinol/src/rdstation/spec/models/lead/import/bulk_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/created_at.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/created_at_steps.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead/hash_helper.rb",
+				"/Users/marcelinol/src/rdstation/app/models/timeline/event.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead/import/import_csv.rb",
+				"/Users/marcelinol/src/rdstation/spec/features/lead_import/lead_import_csv_spec.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/combine_fields.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/lead_social_info_via_import.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/create_custom_fields.feature",
+				"/Users/marcelinol/src/rdstation/app/controllers/api/main_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/views/integrations/_form_js_template.html.erb",
+				"/Users/marcelinol/src/rdstation/features/support/env.rb",
+				"/Users/marcelinol/src/rdstation-js-integration/package.json",
+				"/Users/marcelinol/src/rdstation/config/mongoid.yml",
+				"/Users/marcelinol/src/rdstation/config/mongoid.yml.ci",
+				"/Users/marcelinol/src/rdstation/config/environment.rb",
+				"/Users/marcelinol/src/rdstation/features/support/select2_helper.rb",
+				"/Users/marcelinol/src/rdstation/app/views/lead/import_csv/_step_3.html.erb",
+				"/Users/marcelinol/src/rdstation/features/support/import_helper.rb",
+				"/Users/marcelinol/src/rdstation/spec/controllers/lead/import_csv_controller_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/views/lead/import_csv/_step_2.html.erb",
+				"/Users/marcelinol/src/rdstation/config/locales/import_csv.pt-BR.yml",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/import_csv/field_mapping.js.erb",
+				"/Users/marcelinol/src/rdstation/Gemfile",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/import_csv/column.js.erb",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/landing_pages.js",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/integrations.js.erb",
+				"/Users/marcelinol/src/rdstation/app/controllers/lead/import_csv_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/import_csv.js",
+				"/Users/marcelinol/src/rdstation/spec/models/lead/import/import_csv_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/models/notification_agendor.rb",
+				"/Users/marcelinol/src/rdstation/app/models/landing_page.rb",
+				"/Users/marcelinol/src/rdstation/app/controllers/landing_pages_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/views/landing_pages/landing_page_tab_conversion.html.erb",
+				"/Users/marcelinol/src/rdstation/app/views/landing_pages/wizard_conversion/_conversion_email_notification.html.erb",
+				"/Users/marcelinol/src/pipedrive-ruby/test/test_pipedrive_stage.rb",
+				"/Users/marcelinol/src/pipedrive-ruby/test/test_pipedrive_pipeline.rb",
+				"/Users/marcelinol/src/pipedrive-ruby/test/data/pipelines_body.json",
+				"/Users/marcelinol/src/rdstation/spec/models/notification_pipedrive_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/models/notification_pipedrive.rb",
+				"/Users/marcelinol/src/rdstation/app/controllers/pipedrive_account_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/views/integrations/pipedrive/_edit_account_modal.html.erb",
+				"/Users/marcelinol/src/rdstation/config/locales/integrations.pt-BR.yml",
+				"/Users/marcelinol/src/rdstation/spec/controllers/pipedrive_account_controller_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/views/integrations/pipedrive/_pipelines_stages.html.erb"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/Users/marcelinol/src/rdstation"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"wrong",
+					"worng",
+					"lead",
+					"binding.pry",
+					"#",
+					"isCorrect",
+					"is",
+					"te",
+					"lifecycle_history",
+					"lh",
+					"isWrong",
+					"#",
+					"created_at: nil, updated_at: nil, lead_id: 18112590, lm_id: 2514,",
+					"#",
+					"line[0]",
+					":created_at_date",
+					"when created_at is",
+					"'created_at",
+					"\"",
+					"date",
+					"created_at_date",
+					"params",
+					"createD_at",
+					"create_leads_data",
+					"create_basic_leads",
+					"create_leads",
+					"newly_created_leads",
+					"segment_existing_and_new_leads",
+					"create_or_update_leads",
+					"sanitize",
+					"bulk_importer",
+					"do_import",
+					"process_values",
+					"process_data",
+					"conversions_data",
+					"create_conversions",
+					"update_existing_leads_information",
+					"update_conversions_stuff_and_touch",
+					"conversion_attrs_for_update_sql",
+					"last_conversion_date",
+					"def last_conversion_date",
+					"last_conversion_date",
+					"timecop",
+					"delorean",
+					"timestamp",
+					"new_leads_batch",
+					"create_leads_data",
+					"create_basic_leads",
+					"create_or_update_leads",
+					"lead_import_complex",
+					"conversion_date",
+					"perfor",
+					"proc",
+					"0.3.0",
+					"LeadSource",
+					"referrerData",
+					"ReferrerData",
+					"referrerData",
+					"_prepareFormData",
+					"_getAccountSettings",
+					"_prepareFormData",
+					"_getAccountSettings",
+					"_insertClientId",
+					"formData",
+					"highlightRow",
+					"I click on Save and Proceed",
+					"red",
+					"I click on Save and Proceed",
+					"step_3.message_html",
+					"message_html",
+					"pending",
+					"enable",
+					"\"Ignorar\"",
+					"'Nome'",
+					"step_2_message_html",
+					"highligh",
+					"capybara-select2",
+					"rd station",
+					"isIgnored",
+					"selectedFields",
+					"rd-js-integration.min.js",
+					"d335luupugsy2",
+					"<script type=\"text/javascript\" src=\"https://d335luupugsy2.cloudfront.net/js/integration/0.2.1/rd-js-integration.min.js\"></script>",
+					"hasDuplicatedFields",
+					"findDuplicated",
+					"selectedFields",
+					"isValid",
+					"ignoreColumnElement",
+					"ignored",
+					"ignore",
+					"tog",
+					"toggle",
+					"currentColumn",
+					"setcurrent",
+					"thank",
+					"1",
+					"token",
+					"stages_hash"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7607,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4702,
+										4724
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+									"syntax_mgr_loaded": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/marcelinol/Desktop/ticket.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3668,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										522,
+										522
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"syntax_mgr_loaded": true,
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 118.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 0 1916 1057 0 0 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"conversionimport",
+						"app/models/lead/import/bulk/conversion_importer.rb"
+					],
+					[
+						"importlead",
+						"spec/integration/import_leads_spec.rb"
+					],
+					[
+						"withcreated",
+						"public/lead_imports/1/with_created_at.csv"
+					],
+					[
+						"importdate",
+						"features/lead_import/import_dates.feature"
+					],
+					[
+						"importprocesso",
+						"app/models/lead/import/processor.rb"
+					],
+					[
+						"factleadimport",
+						"spec/factories/lead/import.rb"
+					],
+					[
+						"hashhel",
+						"app/models/lead/hash_helper.rb"
+					],
+					[
+						"lead",
+						"app/models/lead.rb"
+					],
+					[
+						"bulkspec",
+						"spec/models/lead/import/bulk_spec.rb"
+					],
+					[
+						"timelineevent",
+						"app/models/timeline/event.rb"
+					],
+					[
+						"leadhashhelper",
+						"app/models/lead/hash_helper.rb"
+					],
+					[
+						"bulknewleads",
+						"app/models/lead/import/bulk/new_leads_importer.rb"
+					],
+					[
+						"bulkleadimport",
+						"app/models/lead/import/bulk/lead_importer.rb"
+					],
+					[
+						"leadimportbulk",
+						"app/models/lead/import/bulk.rb"
+					],
+					[
+						".feature",
+						"features/lead_import/created_at.feature"
+					],
+					[
+						"leadimportprocesso",
+						"app/models/lead/import/processor.rb"
+					],
+					[
+						"modelsleadimport",
+						"app/models/lead/import.rb"
+					],
+					[
+						"importleads",
+						"spec/integration/import_leads_spec.rb"
+					],
+					[
+						"leadimportcsv",
+						"app/models/lead/import/import_csv.rb"
+					],
+					[
+						"apimaincontr",
+						"app/controllers/api/main_controller.rb"
+					],
+					[
+						"env.rb",
+						"features/support/env.rb"
+					],
+					[
+						"gruntf",
+						"gruntfile.js"
+					],
+					[
+						"package",
+						"package.json"
+					],
+					[
+						"env.r",
+						"features/support/env.rb"
+					],
+					[
+						"mongo",
+						"config/mongoid.yml.ci"
+					],
+					[
+						"envirom",
+						"config/environments/development.rb"
+					],
+					[
+						"envir",
+						"config/environment.rb"
+					],
+					[
+						"fieldmapjs",
+						"app/assets/javascripts/import_csv/field_mapping.js.erb"
+					],
+					[
+						"lead_import/lead_import_csv_spec.rb",
+						"spec/features/lead_import/lead_import_csv_spec.rb"
+					],
+					[
+						"step3",
+						"app/views/lead/import_csv/_step_3.html.erb"
+					],
+					[
+						"lead_import_csv_spec.rb",
+						"spec/features/lead_import/lead_import_csv_spec.rb"
+					],
+					[
+						"importyml",
+						"config/locales/import_csv.pt-BR.yml"
+					],
+					[
+						"step2",
+						"app/views/lead/import_csv/_step_2.html.erb"
+					],
+					[
+						"env",
+						"features/support/env.rb"
+					],
+					[
+						"lead/import_csv_controller_spec.rb",
+						"spec/controllers/lead/import_csv_controller_spec.rb"
+					],
+					[
+						"fieldmapp.js",
+						"app/assets/javascripts/import_csv/field_mapping.js.erb"
+					],
+					[
+						"gemfile",
+						"Gemfile"
+					],
+					[
+						"fieldmappingjs",
+						"app/assets/javascripts/import_csv/field_mapping.js.erb"
+					],
+					[
+						"importcsvyml",
+						"config/locales/import_csv.pt-BR.yml"
+					],
+					[
+						"rdlps.js",
+						"app/assets/javascripts/landing_pages.js"
+					],
+					[
+						"integrationjs",
+						"app/assets/javascripts/integrations.js.erb"
+					],
+					[
+						"importcsvcontrollersp",
+						"spec/controllers/lead/import_csv_controller_spec.rb"
+					],
+					[
+						"importjs",
+						"app/assets/javascripts/import_csv.js"
+					],
+					[
+						"conversion_email_notification",
+						"app/views/landing_pages/wizard_conversion/_conversion_email_notification.html.erb"
+					],
+					[
+						"viewlandingpage",
+						"app/views/landing_pages/landing_page_tab_conversion.html.erb"
+					],
+					[
+						"landingpagecontrol",
+						"app/controllers/landing_pages_controller.rb"
+					],
+					[
+						"landingpage",
+						"app/models/landing_page.rb"
+					],
+					[
+						"notifagendor",
+						"app/models/notification_agendor.rb"
+					],
+					[
+						"spec/features/lead_import/lead_import_csv_spec",
+						"spec/features/lead_import/lead_import_csv_spec.rb"
+					],
+					[
+						"gemi",
+						"Gemfile"
+					],
+					[
+						"spec/cassettes/notificationpipedrive/_stages_options/",
+						"spec/cassettes/NotificationPipedrive/_stages_options/creates_hash_with_pipelines_as_keys_and_arrays_of_stages_as_values.yml"
+					],
+					[
+						"integrationsmodal",
+						"app/views/integrations/pipedrive/_edit_account_modal.html.erb"
+					],
+					[
+						"notificationpipe",
+						"app/models/notification_pipedrive.rb"
+					],
+					[
+						"integrationsyml",
+						"config/locales/integrations.pt-BR.yml"
+					],
+					[
+						"pipeaccoutncontrolle",
+						"app/controllers/pipedrive_account_controller.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 313.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 26,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"timeline",
+						"timeline_events"
+					],
+					[
+						"lifec",
+						"lifecycle_history"
+					],
+					[
+						"lifecy",
+						"lifecycle_history"
+					],
+					[
+						"timeli",
+						"timeline_event"
+					],
+					[
+						"marked",
+						"marked_as_lead_event"
+					],
+					[
+						"crea",
+						"created_at"
+					],
+					[
+						"referr",
+						"referrerData"
+					],
+					[
+						"_prepareR",
+						"_prepareReferrerData"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 267.0,
+				"last_filter": "move",
+				"selected_items":
+				[
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"rurai",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"rurails",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"reident",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"REIDENT",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"duplic",
+						"File: Duplicate"
+					],
+					[
+						"dupli",
+						"File: Duplicate"
+					],
+					[
+						"copy",
+						"File: Copy Path"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"instlal p",
+						"Package Control: Install Package"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"removepa",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 530.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/marcelinol/src/rdstation/app/views/mailing/templates/legacy/_social_footer.html.erb",
+				"/Users/marcelinol/src/rdstation/app/models/lead/lifecycle_history.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead_conversion_stat.rb",
+				"/Users/marcelinol/src/rdstation/app/models/searchable_date_period.rb",
+				"/Users/marcelinol/src/rdstation/app/models/concerns/lifecycle_reports.rb",
+				"/Users/marcelinol/src/rdstation/spec/integration/ticket.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/combine_fields_steps.rb",
+				"/Users/marcelinol/src/rdstation/public/lead_imports/1/with_created_at.csv",
+				"/Users/marcelinol/src/rdstation/features/lead_import/import_dates.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/import_date_steps.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/lead_social_info_via_import_steps.rb",
+				"/Users/marcelinol/.zshrc",
+				"/Users/marcelinol/src/rdstation/spec/factories/lead/import.rb",
+				"/Users/marcelinol/src/rdstation/spec/models/lead/import/bulk_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/created_at.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/created_at_steps.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead/hash_helper.rb",
+				"/Users/marcelinol/src/rdstation/app/models/timeline/event.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead/import/import_csv.rb",
+				"/Users/marcelinol/src/rdstation/spec/features/lead_import/lead_import_csv_spec.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/combine_fields.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/lead_social_info_via_import.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/create_custom_fields.feature",
+				"/Users/marcelinol/src/rdstation/app/controllers/api/main_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/views/integrations/_form_js_template.html.erb",
+				"/Users/marcelinol/src/rdstation/features/support/env.rb",
+				"/Users/marcelinol/src/rdstation-js-integration/package.json",
+				"/Users/marcelinol/src/rdstation/config/mongoid.yml",
+				"/Users/marcelinol/src/rdstation/config/mongoid.yml.ci",
+				"/Users/marcelinol/src/rdstation/config/environment.rb",
+				"/Users/marcelinol/src/rdstation/features/support/select2_helper.rb",
+				"/Users/marcelinol/src/rdstation/app/views/lead/import_csv/_step_3.html.erb",
+				"/Users/marcelinol/src/rdstation/features/support/import_helper.rb",
+				"/Users/marcelinol/src/rdstation/spec/controllers/lead/import_csv_controller_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/views/lead/import_csv/_step_2.html.erb",
+				"/Users/marcelinol/src/rdstation/config/locales/import_csv.pt-BR.yml",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/import_csv/field_mapping.js.erb",
+				"/Users/marcelinol/src/rdstation/Gemfile",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/import_csv/column.js.erb",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/landing_pages.js",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/integrations.js.erb",
+				"/Users/marcelinol/src/rdstation/app/controllers/lead/import_csv_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/import_csv.js",
+				"/Users/marcelinol/src/rdstation/spec/models/lead/import/import_csv_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/models/notification_agendor.rb",
+				"/Users/marcelinol/src/rdstation/app/models/landing_page.rb",
+				"/Users/marcelinol/src/rdstation/app/controllers/landing_pages_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/views/landing_pages/landing_page_tab_conversion.html.erb",
+				"/Users/marcelinol/src/rdstation/app/views/landing_pages/wizard_conversion/_conversion_email_notification.html.erb",
+				"/Users/marcelinol/src/pipedrive-ruby/test/test_pipedrive_stage.rb",
+				"/Users/marcelinol/src/pipedrive-ruby/test/test_pipedrive_pipeline.rb",
+				"/Users/marcelinol/src/pipedrive-ruby/test/data/pipelines_body.json",
+				"/Users/marcelinol/src/rdstation/spec/models/notification_pipedrive_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/models/notification_pipedrive.rb",
+				"/Users/marcelinol/src/rdstation/app/controllers/pipedrive_account_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/views/integrations/pipedrive/_edit_account_modal.html.erb",
+				"/Users/marcelinol/src/rdstation/config/locales/integrations.pt-BR.yml",
+				"/Users/marcelinol/src/rdstation/spec/controllers/pipedrive_account_controller_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/views/integrations/pipedrive/_pipelines_stages.html.erb"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/Users/marcelinol/src/rdstation"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"plain.",
+					"plain.html",
+					"nth_day_and_year",
+					"build_expected_array",
+					"wrong",
+					"worng",
+					"lead",
+					"binding.pry",
+					"#",
+					"isCorrect",
+					"is",
+					"te",
+					"lifecycle_history",
+					"lh",
+					"isWrong",
+					"#",
+					"created_at: nil, updated_at: nil, lead_id: 18112590, lm_id: 2514,",
+					"#",
+					"line[0]",
+					":created_at_date",
+					"when created_at is",
+					"'created_at",
+					"\"",
+					"date",
+					"created_at_date",
+					"params",
+					"createD_at",
+					"create_leads_data",
+					"create_basic_leads",
+					"create_leads",
+					"newly_created_leads",
+					"segment_existing_and_new_leads",
+					"create_or_update_leads",
+					"sanitize",
+					"bulk_importer",
+					"do_import",
+					"process_values",
+					"process_data",
+					"conversions_data",
+					"create_conversions",
+					"update_existing_leads_information",
+					"update_conversions_stuff_and_touch",
+					"conversion_attrs_for_update_sql",
+					"last_conversion_date",
+					"def last_conversion_date",
+					"last_conversion_date",
+					"timecop",
+					"delorean",
+					"timestamp",
+					"new_leads_batch",
+					"create_leads_data",
+					"create_basic_leads",
+					"create_or_update_leads",
+					"lead_import_complex",
+					"conversion_date",
+					"perfor",
+					"proc",
+					"0.3.0",
+					"LeadSource",
+					"referrerData",
+					"ReferrerData",
+					"referrerData",
+					"_prepareFormData",
+					"_getAccountSettings",
+					"_prepareFormData",
+					"_getAccountSettings",
+					"_insertClientId",
+					"formData",
+					"highlightRow",
+					"I click on Save and Proceed",
+					"red",
+					"I click on Save and Proceed",
+					"step_3.message_html",
+					"message_html",
+					"pending",
+					"enable",
+					"\"Ignorar\"",
+					"'Nome'",
+					"step_2_message_html",
+					"highligh",
+					"capybara-select2",
+					"rd station",
+					"isIgnored",
+					"selectedFields",
+					"rd-js-integration.min.js",
+					"d335luupugsy2",
+					"<script type=\"text/javascript\" src=\"https://d335luupugsy2.cloudfront.net/js/integration/0.2.1/rd-js-integration.min.js\"></script>",
+					"hasDuplicatedFields",
+					"findDuplicated",
+					"selectedFields",
+					"isValid",
+					"ignoreColumnElement",
+					"ignored",
+					"ignore",
+					"tog",
+					"toggle",
+					"currentColumn",
+					"setcurrent",
+					"thank",
+					"1",
+					"token",
+					"stages_hash"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 118.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 0 1916 1057 0 0 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"leadconversionstat",
+						"app/models/lead_conversion_stat.rb"
+					],
+					[
+						"lifecycle",
+						"app/models/concerns/lifecycle_reports.rb"
+					],
+					[
+						"lifecyhist",
+						"app/models/lead/lifecycle_history.rb"
+					],
+					[
+						"conversionimport",
+						"app/models/lead/import/bulk/conversion_importer.rb"
+					],
+					[
+						"importlead",
+						"spec/integration/import_leads_spec.rb"
+					],
+					[
+						"withcreated",
+						"public/lead_imports/1/with_created_at.csv"
+					],
+					[
+						"importdate",
+						"features/lead_import/import_dates.feature"
+					],
+					[
+						"importprocesso",
+						"app/models/lead/import/processor.rb"
+					],
+					[
+						"factleadimport",
+						"spec/factories/lead/import.rb"
+					],
+					[
+						"hashhel",
+						"app/models/lead/hash_helper.rb"
+					],
+					[
+						"lead",
+						"app/models/lead.rb"
+					],
+					[
+						"bulkspec",
+						"spec/models/lead/import/bulk_spec.rb"
+					],
+					[
+						"timelineevent",
+						"app/models/timeline/event.rb"
+					],
+					[
+						"leadhashhelper",
+						"app/models/lead/hash_helper.rb"
+					],
+					[
+						"bulknewleads",
+						"app/models/lead/import/bulk/new_leads_importer.rb"
+					],
+					[
+						"bulkleadimport",
+						"app/models/lead/import/bulk/lead_importer.rb"
+					],
+					[
+						"leadimportbulk",
+						"app/models/lead/import/bulk.rb"
+					],
+					[
+						".feature",
+						"features/lead_import/created_at.feature"
+					],
+					[
+						"leadimportprocesso",
+						"app/models/lead/import/processor.rb"
+					],
+					[
+						"modelsleadimport",
+						"app/models/lead/import.rb"
+					],
+					[
+						"importleads",
+						"spec/integration/import_leads_spec.rb"
+					],
+					[
+						"leadimportcsv",
+						"app/models/lead/import/import_csv.rb"
+					],
+					[
+						"apimaincontr",
+						"app/controllers/api/main_controller.rb"
+					],
+					[
+						"env.rb",
+						"features/support/env.rb"
+					],
+					[
+						"gruntf",
+						"gruntfile.js"
+					],
+					[
+						"package",
+						"package.json"
+					],
+					[
+						"env.r",
+						"features/support/env.rb"
+					],
+					[
+						"mongo",
+						"config/mongoid.yml.ci"
+					],
+					[
+						"envirom",
+						"config/environments/development.rb"
+					],
+					[
+						"envir",
+						"config/environment.rb"
+					],
+					[
+						"fieldmapjs",
+						"app/assets/javascripts/import_csv/field_mapping.js.erb"
+					],
+					[
+						"lead_import/lead_import_csv_spec.rb",
+						"spec/features/lead_import/lead_import_csv_spec.rb"
+					],
+					[
+						"step3",
+						"app/views/lead/import_csv/_step_3.html.erb"
+					],
+					[
+						"lead_import_csv_spec.rb",
+						"spec/features/lead_import/lead_import_csv_spec.rb"
+					],
+					[
+						"importyml",
+						"config/locales/import_csv.pt-BR.yml"
+					],
+					[
+						"step2",
+						"app/views/lead/import_csv/_step_2.html.erb"
+					],
+					[
+						"env",
+						"features/support/env.rb"
+					],
+					[
+						"lead/import_csv_controller_spec.rb",
+						"spec/controllers/lead/import_csv_controller_spec.rb"
+					],
+					[
+						"fieldmapp.js",
+						"app/assets/javascripts/import_csv/field_mapping.js.erb"
+					],
+					[
+						"gemfile",
+						"Gemfile"
+					],
+					[
+						"fieldmappingjs",
+						"app/assets/javascripts/import_csv/field_mapping.js.erb"
+					],
+					[
+						"importcsvyml",
+						"config/locales/import_csv.pt-BR.yml"
+					],
+					[
+						"rdlps.js",
+						"app/assets/javascripts/landing_pages.js"
+					],
+					[
+						"integrationjs",
+						"app/assets/javascripts/integrations.js.erb"
+					],
+					[
+						"importcsvcontrollersp",
+						"spec/controllers/lead/import_csv_controller_spec.rb"
+					],
+					[
+						"importjs",
+						"app/assets/javascripts/import_csv.js"
+					],
+					[
+						"conversion_email_notification",
+						"app/views/landing_pages/wizard_conversion/_conversion_email_notification.html.erb"
+					],
+					[
+						"viewlandingpage",
+						"app/views/landing_pages/landing_page_tab_conversion.html.erb"
+					],
+					[
+						"landingpagecontrol",
+						"app/controllers/landing_pages_controller.rb"
+					],
+					[
+						"landingpage",
+						"app/models/landing_page.rb"
+					],
+					[
+						"notifagendor",
+						"app/models/notification_agendor.rb"
+					],
+					[
+						"spec/features/lead_import/lead_import_csv_spec",
+						"spec/features/lead_import/lead_import_csv_spec.rb"
+					],
+					[
+						"gemi",
+						"Gemfile"
+					],
+					[
+						"spec/cassettes/notificationpipedrive/_stages_options/",
+						"spec/cassettes/NotificationPipedrive/_stages_options/creates_hash_with_pipelines_as_keys_and_arrays_of_stages_as_values.yml"
+					],
+					[
+						"integrationsmodal",
+						"app/views/integrations/pipedrive/_edit_account_modal.html.erb"
+					],
+					[
+						"notificationpipe",
+						"app/models/notification_pipedrive.rb"
+					],
+					[
+						"integrationsyml",
+						"config/locales/integrations.pt-BR.yml"
+					],
+					[
+						"pipeaccoutncontrolle",
+						"app/controllers/pipedrive_account_controller.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 313.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 31,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"timeline",
+						"timeline_events"
+					],
+					[
+						"lifec",
+						"lifecycle_history"
+					],
+					[
+						"lifecy",
+						"lifecycle_history"
+					],
+					[
+						"timeli",
+						"timeline_event"
+					],
+					[
+						"marked",
+						"marked_as_lead_event"
+					],
+					[
+						"crea",
+						"created_at"
+					],
+					[
+						"referr",
+						"referrerData"
+					],
+					[
+						"_prepareR",
+						"_prepareReferrerData"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/marcelinol/src/rdstation/app/views/layouts/mailing/templates/clean.html.erb",
+					"settings":
+					{
+						"buffer_size": 1138,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/marcelinol/src/rdstation/app/views/mailing/templates/plain.html.erb",
+					"settings":
+					{
+						"buffer_size": 974,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/marcelinol/src/rdstation/app/views/mailing/templates/_preview_unsubscribe_footer.html.erb",
+					"settings":
+					{
+						"buffer_size": 1517,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/marcelinol/src/rdstation/app/views/mailing/old_version/_email_footer.html.erb",
+					"settings":
+					{
+						"buffer_size": 821,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/marcelinol/src/rdstation/app/views/mailing/mails/_email_footer.html.erb",
+					"settings":
+					{
+						"buffer_size": 684,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Searching 6187 files for \"plain.html\"\n\n0 matches\n\nSearching 6187 files for \"plain.\"\n\n/Users/marcelinol/src/rdstation/app/controllers/mailing/email_controller.rb:\n   63        format.js do\n   64          @email_data = current_user.account.mailing_manager.emails_and_models.find(params[:id])\n   65:         render :json => @email_data.html_to_plain.to_json\n   66        end\n   67      end\n\n/Users/marcelinol/src/rdstation/app/models/mail_util.rb:\n   17    def self.plain_wrapper(html, plain, extra_params)\n   18      html = html.dup\n   19:     plain = plain.dup\n   20      doc = Nokogiri::HTML.parse(html)\n   21      links = {}\n   ..\n   29              html.force_encoding 'UTF-8' # postgres is setup to use unicode by default!\n   30              html.gsub!(\"href=\\\"#{HTMLEntities.new.encode(old_href)}\\\"\", \"href=\\\"#{new_href}\\\"\")\n   31:             plain.gsub!(old_href, new_href)\n   32            end\n   33          end\n\n3 matches across 2 files\n",
+					"settings":
+					{
+						"buffer_size": 946,
+						"line_ending": "Unix",
+						"name": "Find Results",
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 267.0,
+				"last_filter": "move",
+				"selected_items":
+				[
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"rurai",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"rurails",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"reident",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"REIDENT",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"duplic",
+						"File: Duplicate"
+					],
+					[
+						"dupli",
+						"File: Duplicate"
+					],
+					[
+						"copy",
+						"File: Copy Path"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"instlal p",
+						"Package Control: Install Package"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"removepa",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 530.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/marcelinol/src/rdstation",
+				"/Users/marcelinol/src/rdstation/app",
+				"/Users/marcelinol/src/rdstation/app/models",
+				"/Users/marcelinol/src/rdstation/app/models/concerns",
+				"/Users/marcelinol/src/rdstation/app/models/lead",
+				"/Users/marcelinol/src/rdstation/app/models/mailing",
+				"/Users/marcelinol/src/rdstation/app/views",
+				"/Users/marcelinol/src/rdstation/app/views/layouts",
+				"/Users/marcelinol/src/rdstation/app/views/layouts/mailing",
+				"/Users/marcelinol/src/rdstation/app/views/layouts/mailing/templates",
+				"/Users/marcelinol/src/rdstation/app/views/mailing",
+				"/Users/marcelinol/src/rdstation/app/views/mailing/email",
+				"/Users/marcelinol/src/rdstation/app/views/mailing/mails",
+				"/Users/marcelinol/src/rdstation/app/views/mailing/old_version",
+				"/Users/marcelinol/src/rdstation/app/views/mailing/templates",
+				"/Users/marcelinol/src/rdstation/app/views/mailing/templates/legacy"
+			],
+			"file_history":
+			[
+				"/Users/marcelinol/src/rdstation/app/views/mailing/templates/legacy/_social_footer.html.erb",
+				"/Users/marcelinol/src/rdstation/app/models/lead/lifecycle_history.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead_conversion_stat.rb",
+				"/Users/marcelinol/src/rdstation/app/models/searchable_date_period.rb",
+				"/Users/marcelinol/src/rdstation/app/models/concerns/lifecycle_reports.rb",
+				"/Users/marcelinol/src/rdstation/spec/integration/ticket.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/combine_fields_steps.rb",
+				"/Users/marcelinol/src/rdstation/public/lead_imports/1/with_created_at.csv",
+				"/Users/marcelinol/src/rdstation/features/lead_import/import_dates.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/import_date_steps.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/lead_social_info_via_import_steps.rb",
+				"/Users/marcelinol/.zshrc",
+				"/Users/marcelinol/src/rdstation/spec/factories/lead/import.rb",
+				"/Users/marcelinol/src/rdstation/spec/models/lead/import/bulk_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/created_at.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/step_definitions/created_at_steps.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead/hash_helper.rb",
+				"/Users/marcelinol/src/rdstation/app/models/timeline/event.rb",
+				"/Users/marcelinol/src/rdstation/app/models/lead/import/import_csv.rb",
+				"/Users/marcelinol/src/rdstation/spec/features/lead_import/lead_import_csv_spec.rb",
+				"/Users/marcelinol/src/rdstation/features/lead_import/combine_fields.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/lead_social_info_via_import.feature",
+				"/Users/marcelinol/src/rdstation/features/lead_import/create_custom_fields.feature",
+				"/Users/marcelinol/src/rdstation/app/controllers/api/main_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/views/integrations/_form_js_template.html.erb",
+				"/Users/marcelinol/src/rdstation/features/support/env.rb",
+				"/Users/marcelinol/src/rdstation-js-integration/package.json",
+				"/Users/marcelinol/src/rdstation/config/mongoid.yml",
+				"/Users/marcelinol/src/rdstation/config/mongoid.yml.ci",
+				"/Users/marcelinol/src/rdstation/config/environment.rb",
+				"/Users/marcelinol/src/rdstation/features/support/select2_helper.rb",
+				"/Users/marcelinol/src/rdstation/app/views/lead/import_csv/_step_3.html.erb",
+				"/Users/marcelinol/src/rdstation/features/support/import_helper.rb",
+				"/Users/marcelinol/src/rdstation/spec/controllers/lead/import_csv_controller_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/views/lead/import_csv/_step_2.html.erb",
+				"/Users/marcelinol/src/rdstation/config/locales/import_csv.pt-BR.yml",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/import_csv/field_mapping.js.erb",
+				"/Users/marcelinol/src/rdstation/Gemfile",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/import_csv/column.js.erb",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/landing_pages.js",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/integrations.js.erb",
+				"/Users/marcelinol/src/rdstation/app/controllers/lead/import_csv_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/assets/javascripts/import_csv.js",
+				"/Users/marcelinol/src/rdstation/spec/models/lead/import/import_csv_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/models/notification_agendor.rb",
+				"/Users/marcelinol/src/rdstation/app/models/landing_page.rb",
+				"/Users/marcelinol/src/rdstation/app/controllers/landing_pages_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/views/landing_pages/landing_page_tab_conversion.html.erb",
+				"/Users/marcelinol/src/rdstation/app/views/landing_pages/wizard_conversion/_conversion_email_notification.html.erb",
+				"/Users/marcelinol/src/pipedrive-ruby/test/test_pipedrive_stage.rb",
+				"/Users/marcelinol/src/pipedrive-ruby/test/test_pipedrive_pipeline.rb",
+				"/Users/marcelinol/src/pipedrive-ruby/test/data/pipelines_body.json",
+				"/Users/marcelinol/src/rdstation/spec/models/notification_pipedrive_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/models/notification_pipedrive.rb",
+				"/Users/marcelinol/src/rdstation/app/controllers/pipedrive_account_controller.rb",
+				"/Users/marcelinol/src/rdstation/app/views/integrations/pipedrive/_edit_account_modal.html.erb",
+				"/Users/marcelinol/src/rdstation/config/locales/integrations.pt-BR.yml",
+				"/Users/marcelinol/src/rdstation/spec/controllers/pipedrive_account_controller_spec.rb",
+				"/Users/marcelinol/src/rdstation/app/views/integrations/pipedrive/_pipelines_stages.html.erb"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/Users/marcelinol/src/rdstation"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"plain.",
+					"plain.html",
+					"nth_day_and_year",
+					"build_expected_array",
+					"wrong",
+					"worng",
+					"lead",
+					"binding.pry",
+					"#",
+					"isCorrect",
+					"is",
+					"te",
+					"lifecycle_history",
+					"lh",
+					"isWrong",
+					"#",
+					"created_at: nil, updated_at: nil, lead_id: 18112590, lm_id: 2514,",
+					"#",
+					"line[0]",
+					":created_at_date",
+					"when created_at is",
+					"'created_at",
+					"\"",
+					"date",
+					"created_at_date",
+					"params",
+					"createD_at",
+					"create_leads_data",
+					"create_basic_leads",
+					"create_leads",
+					"newly_created_leads",
+					"segment_existing_and_new_leads",
+					"create_or_update_leads",
+					"sanitize",
+					"bulk_importer",
+					"do_import",
+					"process_values",
+					"process_data",
+					"conversions_data",
+					"create_conversions",
+					"update_existing_leads_information",
+					"update_conversions_stuff_and_touch",
+					"conversion_attrs_for_update_sql",
+					"last_conversion_date",
+					"def last_conversion_date",
+					"last_conversion_date",
+					"timecop",
+					"delorean",
+					"timestamp",
+					"new_leads_batch",
+					"create_leads_data",
+					"create_basic_leads",
+					"create_or_update_leads",
+					"lead_import_complex",
+					"conversion_date",
+					"perfor",
+					"proc",
+					"0.3.0",
+					"LeadSource",
+					"referrerData",
+					"ReferrerData",
+					"referrerData",
+					"_prepareFormData",
+					"_getAccountSettings",
+					"_prepareFormData",
+					"_getAccountSettings",
+					"_insertClientId",
+					"formData",
+					"highlightRow",
+					"I click on Save and Proceed",
+					"red",
+					"I click on Save and Proceed",
+					"step_3.message_html",
+					"message_html",
+					"pending",
+					"enable",
+					"\"Ignorar\"",
+					"'Nome'",
+					"step_2_message_html",
+					"highligh",
+					"capybara-select2",
+					"rd station",
+					"isIgnored",
+					"selectedFields",
+					"rd-js-integration.min.js",
+					"d335luupugsy2",
+					"<script type=\"text/javascript\" src=\"https://d335luupugsy2.cloudfront.net/js/integration/0.2.1/rd-js-integration.min.js\"></script>",
+					"hasDuplicatedFields",
+					"findDuplicated",
+					"selectedFields",
+					"isValid",
+					"ignoreColumnElement",
+					"ignored",
+					"ignore",
+					"tog",
+					"toggle",
+					"currentColumn",
+					"setcurrent",
+					"thank",
+					"1",
+					"token",
+					"stages_hash"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/marcelinol/src/rdstation"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/marcelinol/src/rdstation/app/views/layouts/mailing/templates/clean.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1138,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1138,
+										1138
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"syntax_mgr_loaded": true,
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/marcelinol/src/rdstation/app/views/mailing/templates/plain.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 974,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										974,
+										974
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"syntax_mgr_loaded": true,
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/marcelinol/src/rdstation/app/views/mailing/templates/_preview_unsubscribe_footer.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1517,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1272,
+										1272
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"syntax_mgr_loaded": true,
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/marcelinol/src/rdstation/app/views/mailing/old_version/_email_footer.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 821,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										499,
+										499
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"syntax_mgr_loaded": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/marcelinol/src/rdstation/app/views/mailing/mails/_email_footer.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 684,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										412,
+										412
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"syntax_mgr_loaded": true,
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 946,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												341,
+												347
+											],
+											[
+												550,
+												556
+											],
+											[
+												848,
+												854
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										50,
+										50
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"default_dir": "/Users/marcelinol/src/rdstation",
+									"detect_indentation": false,
+									"line_numbers": false,
+									"output_tag": 2,
+									"result_base_dir": "",
+									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+									"syntax_mgr_loaded": true,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 54.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 118.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 0 1916 1057 0 0 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"leadconversionstat",
+						"app/models/lead_conversion_stat.rb"
+					],
+					[
+						"lifecycle",
+						"app/models/concerns/lifecycle_reports.rb"
+					],
+					[
+						"lifecyhist",
+						"app/models/lead/lifecycle_history.rb"
+					],
+					[
+						"conversionimport",
+						"app/models/lead/import/bulk/conversion_importer.rb"
+					],
+					[
+						"importlead",
+						"spec/integration/import_leads_spec.rb"
+					],
+					[
+						"withcreated",
+						"public/lead_imports/1/with_created_at.csv"
+					],
+					[
+						"importdate",
+						"features/lead_import/import_dates.feature"
+					],
+					[
+						"importprocesso",
+						"app/models/lead/import/processor.rb"
+					],
+					[
+						"factleadimport",
+						"spec/factories/lead/import.rb"
+					],
+					[
+						"hashhel",
+						"app/models/lead/hash_helper.rb"
+					],
+					[
+						"lead",
+						"app/models/lead.rb"
+					],
+					[
+						"bulkspec",
+						"spec/models/lead/import/bulk_spec.rb"
+					],
+					[
+						"timelineevent",
+						"app/models/timeline/event.rb"
+					],
+					[
+						"leadhashhelper",
+						"app/models/lead/hash_helper.rb"
+					],
+					[
+						"bulknewleads",
+						"app/models/lead/import/bulk/new_leads_importer.rb"
+					],
+					[
+						"bulkleadimport",
+						"app/models/lead/import/bulk/lead_importer.rb"
+					],
+					[
+						"leadimportbulk",
+						"app/models/lead/import/bulk.rb"
+					],
+					[
+						".feature",
+						"features/lead_import/created_at.feature"
+					],
+					[
+						"leadimportprocesso",
+						"app/models/lead/import/processor.rb"
+					],
+					[
+						"modelsleadimport",
+						"app/models/lead/import.rb"
+					],
+					[
+						"importleads",
+						"spec/integration/import_leads_spec.rb"
+					],
+					[
+						"leadimportcsv",
+						"app/models/lead/import/import_csv.rb"
+					],
+					[
+						"apimaincontr",
+						"app/controllers/api/main_controller.rb"
+					],
+					[
+						"env.rb",
+						"features/support/env.rb"
+					],
+					[
+						"gruntf",
+						"gruntfile.js"
+					],
+					[
+						"package",
+						"package.json"
+					],
+					[
+						"env.r",
+						"features/support/env.rb"
+					],
+					[
+						"mongo",
+						"config/mongoid.yml.ci"
+					],
+					[
+						"envirom",
+						"config/environments/development.rb"
+					],
+					[
+						"envir",
+						"config/environment.rb"
+					],
+					[
+						"fieldmapjs",
+						"app/assets/javascripts/import_csv/field_mapping.js.erb"
+					],
+					[
+						"lead_import/lead_import_csv_spec.rb",
+						"spec/features/lead_import/lead_import_csv_spec.rb"
+					],
+					[
+						"step3",
+						"app/views/lead/import_csv/_step_3.html.erb"
+					],
+					[
+						"lead_import_csv_spec.rb",
+						"spec/features/lead_import/lead_import_csv_spec.rb"
+					],
+					[
+						"importyml",
+						"config/locales/import_csv.pt-BR.yml"
+					],
+					[
+						"step2",
+						"app/views/lead/import_csv/_step_2.html.erb"
+					],
+					[
+						"env",
+						"features/support/env.rb"
+					],
+					[
+						"lead/import_csv_controller_spec.rb",
+						"spec/controllers/lead/import_csv_controller_spec.rb"
+					],
+					[
+						"fieldmapp.js",
+						"app/assets/javascripts/import_csv/field_mapping.js.erb"
+					],
+					[
+						"gemfile",
+						"Gemfile"
+					],
+					[
+						"fieldmappingjs",
+						"app/assets/javascripts/import_csv/field_mapping.js.erb"
+					],
+					[
+						"importcsvyml",
+						"config/locales/import_csv.pt-BR.yml"
+					],
+					[
+						"rdlps.js",
+						"app/assets/javascripts/landing_pages.js"
+					],
+					[
+						"integrationjs",
+						"app/assets/javascripts/integrations.js.erb"
+					],
+					[
+						"importcsvcontrollersp",
+						"spec/controllers/lead/import_csv_controller_spec.rb"
+					],
+					[
+						"importjs",
+						"app/assets/javascripts/import_csv.js"
+					],
+					[
+						"conversion_email_notification",
+						"app/views/landing_pages/wizard_conversion/_conversion_email_notification.html.erb"
+					],
+					[
+						"viewlandingpage",
+						"app/views/landing_pages/landing_page_tab_conversion.html.erb"
+					],
+					[
+						"landingpagecontrol",
+						"app/controllers/landing_pages_controller.rb"
+					],
+					[
+						"landingpage",
+						"app/models/landing_page.rb"
+					],
+					[
+						"notifagendor",
+						"app/models/notification_agendor.rb"
+					],
+					[
+						"spec/features/lead_import/lead_import_csv_spec",
+						"spec/features/lead_import/lead_import_csv_spec.rb"
+					],
+					[
+						"gemi",
+						"Gemfile"
+					],
+					[
+						"spec/cassettes/notificationpipedrive/_stages_options/",
+						"spec/cassettes/NotificationPipedrive/_stages_options/creates_hash_with_pipelines_as_keys_and_arrays_of_stages_as_values.yml"
+					],
+					[
+						"integrationsmodal",
+						"app/views/integrations/pipedrive/_edit_account_modal.html.erb"
+					],
+					[
+						"notificationpipe",
+						"app/models/notification_pipedrive.rb"
+					],
+					[
+						"integrationsyml",
+						"config/locales/integrations.pt-BR.yml"
+					],
+					[
+						"pipeaccoutncontrolle",
+						"app/controllers/pipedrive_account_controller.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 313.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 30,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
